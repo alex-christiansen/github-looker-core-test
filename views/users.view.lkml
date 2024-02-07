@@ -1,6 +1,6 @@
 view: users {
   sql_table_name: `data-eng-on-gcp-371519.ecomm.users` ;;
-  drill_fields: [id]
+  # drill_fields: [id]
 
   dimension: id {
     primary_key: yes
